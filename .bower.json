@@ -1,0 +1,13 @@
+{
+  "name": "Debug",
+  "homepage": "https://github.com/daKmoR/Debug",
+  "_release": "e60438c42d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e60438c42dc5337e0e2f5c91388b5acfac3acc01"
+  },
+  "_source": "git://github.com/daKmoR/Debug.git",
+  "_target": "*",
+  "_originalSource": "daKmoR/Debug"
+}
